@@ -51,6 +51,11 @@ h1, h2 {
     margin-bottom: 0;
 }
 
-#mainLeft {
+#mainLeft, main {
     border-right: 1px solid lightgray;
+    background-color:darkmagenta;
+ }
+
+ #header {
+     background-color:aqua ;
  }
