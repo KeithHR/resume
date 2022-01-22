@@ -51,9 +51,13 @@ h1, h2 {
     margin-bottom: 0;
 }
 
-#mainLeft, main {
+#mainLeft {
     border-right: 1px solid lightgray;
     background-color:darkmagenta;
+ }
+
+ #mainRight {
+     background-color: darkmagenta;
  }
 
  #header {
