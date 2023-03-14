@@ -1,2 +1,2 @@
 # resume
-My Resume
+Check out my online Resume!
